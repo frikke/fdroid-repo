@@ -1,0 +1,1 @@
+{"commandLine":["/home/geheimnis/code/fdroid/server/fdroid server","update","-v"],"endTimestamp":1602004832940,"fdroiddata":{"commitId":"7e5662bdc006cf8ef3fb4fa479cf8a64480aedeb","isDirty":true},"fdroidserver":{"commitId":"dd15a381900b77666f91292b403e4f4217be3dab","isDirty":false},"startTimestamp":1601999131000,"subcommand":"server"}
