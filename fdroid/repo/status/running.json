@@ -5,13 +5,13 @@
     "--delete-unknown"
   ],
   "fdroiddata": {
-    "commitId": "1a89aefc7ddaa4614a1b92041c1b029c01191848",
-    "isDirty": false
+    "commitId": "7e5662bdc006cf8ef3fb4fa479cf8a64480aedeb",
+    "isDirty": true
   },
   "fdroidserver": {
-    "commitId": "5de07c4a7161c2d4ef9ceb528391849decb95e4d",
+    "commitId": "dd15a381900b77666f91292b403e4f4217be3dab",
     "isDirty": false
   },
-  "startTimestamp": 1601992506000,
+  "startTimestamp": 1601998941000,
   "subcommand": "update"
 }
