@@ -1,17 +1,17 @@
 {
   "commandLine": [
     "/home/geheimnis/code/fdroid/server/fdroid update",
-    "--nosign",
-    "--verbose"
+    "-v",
+    "-c"
   ],
   "fdroiddata": {
     "commitId": "3f1730cf9ce5548c9bff6c420d0be04791a7bc35",
-    "isDirty": false
-  },
-  "fdroidserver": {
-    "commitId": "05c78764f0157a610ee9530873852759e2c2afb3",
     "isDirty": true
   },
-  "startTimestamp": 1597931473000,
+  "fdroidserver": {
+    "commitId": "5de07c4a7161c2d4ef9ceb528391849decb95e4d",
+    "isDirty": false
+  },
+  "startTimestamp": 1601971789000,
   "subcommand": "update"
 }
