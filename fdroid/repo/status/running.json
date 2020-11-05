@@ -6,12 +6,12 @@
   ],
   "fdroiddata": {
     "commitId": "2abbbdedb9fd69a00b7f94c7036df8a9d5c1b26d",
-    "isDirty": false
+    "isDirty": true
   },
   "fdroidserver": {
     "commitId": "e626ca90a10b4e3a488d113c4c7be2b5076ebdb4",
     "isDirty": false
   },
-  "startTimestamp": 1604571368000,
+  "startTimestamp": 1604575191000,
   "subcommand": "update"
 }
