@@ -9,9 +9,9 @@
     "isDirty": true
   },
   "fdroidserver": {
-    "commitId": "e626ca90a10b4e3a488d113c4c7be2b5076ebdb4",
-    "isDirty": false
+    "commitId": "2c678886e15f70f59898465a37257d35645173c4",
+    "isDirty": true
   },
-  "startTimestamp": 1604576099000,
+  "startTimestamp": 1605039891000,
   "subcommand": "update"
 }

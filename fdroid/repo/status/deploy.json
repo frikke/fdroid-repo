@@ -1,0 +1,1 @@
+{"commandLine":["/home/geheimnis/code/fdroid/server/fdroid deploy","-v"],"endTimestamp":1604577526992,"fdroiddata":{"commitId":"2abbbdedb9fd69a00b7f94c7036df8a9d5c1b26d","isDirty":true},"fdroidserver":{"commitId":"e626ca90a10b4e3a488d113c4c7be2b5076ebdb4","isDirty":false},"startTimestamp":1604577515000,"subcommand":"deploy"}
