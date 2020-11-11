@@ -1,6 +1,6 @@
 {
   "commandLine": [
-    "/home/geheimnis/code/fdroid/server/fdroid update",
+    "/home/geheimnis/code/fdroid/fdroidserver/fdroid update",
     "--verbose",
     "--delete-unknown"
   ],
@@ -12,6 +12,6 @@
     "commitId": "2c678886e15f70f59898465a37257d35645173c4",
     "isDirty": true
   },
-  "startTimestamp": 1605039891000,
+  "startTimestamp": 1605080953000,
   "subcommand": "update"
 }
