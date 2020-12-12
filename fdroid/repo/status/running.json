@@ -4,13 +4,13 @@
     "-v"
   ],
   "fdroiddata": {
-    "commitId": "923f3deee27c691403422111a6ec7f45ecf908af",
+    "commitId": "44d8318ecef2a45e53bc1f819798f2b68c61f96e",
     "isDirty": true
   },
   "fdroidserver": {
-    "commitId": "47dded93187d0dbd3dcd5644fe4ee4ac600be295",
-    "isDirty": true
+    "commitId": "201298488b532807fabaa962dd4dc6eb4f24226a",
+    "isDirty": false
   },
-  "startTimestamp": 1607586489000,
+  "startTimestamp": 1607761014000,
   "subcommand": "signindex"
 }
