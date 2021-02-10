@@ -5,12 +5,23 @@
   ],
   "fdroiddata": {
     "commitId": "44d8318ecef2a45e53bc1f819798f2b68c61f96e",
-    "isDirty": true
+    "isDirty": true,
+    "modifiedFiles": [
+      "config.yml",
+      "stats/known_apks.txt"
+    ],
+    "untrackedFiles": [
+      "pre-deploy.py"
+    ]
   },
   "fdroidserver": {
-    "commitId": "201298488b532807fabaa962dd4dc6eb4f24226a",
-    "isDirty": false
+    "commitId": "4f03ac9e737d76725e600b9ef03dbbe01059ffa7",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      "fdroidserver/#index.py#"
+    ]
   },
-  "startTimestamp": 1612782273000,
+  "startTimestamp": 1612943121000,
   "subcommand": "signindex"
 }
