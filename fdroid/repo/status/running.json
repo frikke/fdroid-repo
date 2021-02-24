@@ -18,10 +18,8 @@
     "commitId": "4f03ac9e737d76725e600b9ef03dbbe01059ffa7",
     "isDirty": false,
     "modifiedFiles": [],
-    "untrackedFiles": [
-      "fdroidserver/#index.py#"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1612943121000,
+  "startTimestamp": 1614154320000,
   "subcommand": "signindex"
 }
